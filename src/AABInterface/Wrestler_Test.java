@@ -14,5 +14,7 @@ public class Wrestler_Test {
         wrestlerSuper2.themeMusic();
         wrestlerSuper2.finisher();
         wrestlerSuper2.paymentForWork(3);
+
+        //deeedd
     }
 }
